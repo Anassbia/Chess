@@ -1,7 +1,7 @@
 #pragma once 
 
 #include"PiecesEnum.hpp"
-#include "BoardEnum.hpp"
+#include "SquareEnum.hpp"
 
 struct Square {
 	SquareColor Color;

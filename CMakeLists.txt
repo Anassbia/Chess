@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(chess
     main.cpp
- "Core/Board/Board.cpp")
+  "Game/Game.hpp")

@@ -1,6 +1,6 @@
 #include <iostream>
 #include"Core\Board\Board.hpp"
-#include "Core\Board\BoardEnum.hpp"
+#include "Core\Board\SquareEnum.hpp"
 
 
 int main() {

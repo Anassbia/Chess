@@ -1,11 +1,6 @@
 #include "Square.hpp"
 
+struct Board {
 
-class Board {
-
-private:
 	Square Squares[8][8];
-public:
-	Board();
-	
 };
